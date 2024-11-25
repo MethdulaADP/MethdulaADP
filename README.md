@@ -50,8 +50,8 @@ I also focus on structured testing, creating **test cases** with detailed fields
 ## 📫 **How to Reach Me**  
 
 - 🌐 [LinkedIn Profile](https://www.linkedin.com/in/pamith-methdula-a19a77282/)  
-- 📧 Email: your.email@example.com  
-- 🐦 Twitter: [@YourHandle](#)  
+- 📧 Email: athukoralapamith@gmail.com 
+
 
 ---
 
@@ -70,4 +70,4 @@ Test Case ID, Summary, Precondition, Steps, Expected Result, etc.
 📧 Email: athukoralapamith@gmail.com
 Feel free to explore my repositories and connect with me for collaboration or discussions. Let’s innovate together! 🚀
 
-Let me know if you'd like me to refine it further! 😊
+
