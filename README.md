@@ -2,7 +2,7 @@
 
 ---
 
-# Hi, I'm Pamith! 👋  
+# Hi, I'm Pamith! 
 
 Welcome to my GitHub profile!  
 
